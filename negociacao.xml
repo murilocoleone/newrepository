@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+  <list> 
+    <negociacao> 
+      <preco>39.5</preco> 
+      <quantidade>1824</quantidade> 
+      <data> 
+        <time>1378217860718</time> 
+        <timezone>America/Sao_Paulo</timezone> 
+      </data> </negociacao> 
+    <negociacao> 
+      <preco>40.39</preco> 
+      <quantidade>2529</quantidade> 
+      <data reference="../../negociacao/data"/> 
+    </negociacao> -
+    <negociacao> 
+      <preco>39.730000000000004</preco> 
+      <quantidade>3192</quantidade> 
+      <data> 
+        <time>1378304260718</time> 
+        <timezone>America/Sao_Paulo</timezone> 
+      </data> 
+    </negociacao> 
+    <negociacao> 
+      <preco>40.580000000000005</preco> 
+      <quantidade>3739</quantidade> 
+      <data reference="../../negociacao[3]/data"/> 
+    </negociacao>
+    <negociacao> 
+      <preco>39.970000000000006</preco> 
+      <quantidade>4513</quantidade> 
+      <data reference="../../negociacao[3]/data"/> 
+    </negociacao>
+  </list>
